@@ -33,7 +33,9 @@ namespace LibraryManagementSystem.Services
 
         public List<Category> GetCategories()
         {
-            return _context.Categories.ToList();
+            // category has subcategoryId == 0 is main category.
+            var categories = _context.Categories.Where(c => c.SubCategoryId == 0).ToList();
+            return categories;
         }
 
         public List<Category> GetSubCategories(int id)

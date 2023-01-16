@@ -4,8 +4,11 @@ using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
+//Refactored the webApp services
+//builder.Services.RegisterService();
+
 // Add services to the container.
-builder.Services.AddControllersWithViews();
+// builder.Services.AddControllersWithViews();
 builder.Services.AddScoped<IBookService, BookService>();
 
 builder.Services.AddDbContext<ApplicationDbContext>(option =>
