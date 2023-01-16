@@ -9,57 +9,57 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LibraryManagementSystem
 build_property.RootNamespace = LibraryManagementSystem
-build_property.ProjectDir = C:\Users\Raed\source\repos\LibraryManagementSystem\LibraryManagementSystem\
+build_property.ProjectDir = c:\Users\Raed\source\repos\LibraryManagementSystem\LibraryManagementSystem\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Raed\source\repos\LibraryManagementSystem\LibraryManagementSystem
+build_property.MSBuildProjectDirectory = c:\Users\Raed\source\repos\LibraryManagementSystem\LibraryManagementSystem
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Raed/source/repos/LibraryManagementSystem/LibraryManagementSystem/Views/Books/GetAllBookEF.cshtml]
+[c:/Users/Raed/source/repos/LibraryManagementSystem/LibraryManagementSystem/Views/Books/GetAllBookEF.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcR2V0QWxsQm9va0VGLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Raed/source/repos/LibraryManagementSystem/LibraryManagementSystem/Views/Books/GetAllBookStoredProcedure.cshtml]
+[c:/Users/Raed/source/repos/LibraryManagementSystem/LibraryManagementSystem/Views/Books/GetAllBookStoredProcedure.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcR2V0QWxsQm9va1N0b3JlZFByb2NlZHVyZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Raed/source/repos/LibraryManagementSystem/LibraryManagementSystem/Views/Books/Index.cshtml]
+[c:/Users/Raed/source/repos/LibraryManagementSystem/LibraryManagementSystem/Views/Books/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Raed/source/repos/LibraryManagementSystem/LibraryManagementSystem/Views/ConsumeStackOverflow/Details.cshtml]
+[c:/Users/Raed/source/repos/LibraryManagementSystem/LibraryManagementSystem/Views/ConsumeStackOverflow/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc3VtZVN0YWNrT3ZlcmZsb3dcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Raed/source/repos/LibraryManagementSystem/LibraryManagementSystem/Views/ConsumeStackOverflow/GetQuestions.cshtml]
+[c:/Users/Raed/source/repos/LibraryManagementSystem/LibraryManagementSystem/Views/ConsumeStackOverflow/GetQuestions.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc3VtZVN0YWNrT3ZlcmZsb3dcR2V0UXVlc3Rpb25zLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Raed/source/repos/LibraryManagementSystem/LibraryManagementSystem/Views/Home/Index.cshtml]
+[c:/Users/Raed/source/repos/LibraryManagementSystem/LibraryManagementSystem/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Raed/source/repos/LibraryManagementSystem/LibraryManagementSystem/Views/Home/Privacy.cshtml]
+[c:/Users/Raed/source/repos/LibraryManagementSystem/LibraryManagementSystem/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Raed/source/repos/LibraryManagementSystem/LibraryManagementSystem/Views/Shared/Error.cshtml]
+[c:/Users/Raed/source/repos/LibraryManagementSystem/LibraryManagementSystem/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Raed/source/repos/LibraryManagementSystem/LibraryManagementSystem/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/Raed/source/repos/LibraryManagementSystem/LibraryManagementSystem/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Raed/source/repos/LibraryManagementSystem/LibraryManagementSystem/Views/_ViewImports.cshtml]
+[c:/Users/Raed/source/repos/LibraryManagementSystem/LibraryManagementSystem/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Raed/source/repos/LibraryManagementSystem/LibraryManagementSystem/Views/_ViewStart.cshtml]
+[c:/Users/Raed/source/repos/LibraryManagementSystem/LibraryManagementSystem/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Raed/source/repos/LibraryManagementSystem/LibraryManagementSystem/Views/Shared/_Layout.cshtml]
+[c:/Users/Raed/source/repos/LibraryManagementSystem/LibraryManagementSystem/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-spbznog2vl

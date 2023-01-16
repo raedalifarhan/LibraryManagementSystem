@@ -60,7 +60,7 @@ namespace LibraryManagementSystem.Controllers
         {
             return View(
                 _mapper.Map<List<BookViewModel>>(
-                    _bookService.GetAllBookStoredProcedure()
+                    _bookService.GetAllBookEF()
                 ));
         }
     }
