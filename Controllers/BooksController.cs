@@ -48,8 +48,6 @@ namespace LibraryManagementSystem.Controllers
                 ));
         }
 
-
-
         public IActionResult GetAllBookStoredProcedure()
         {
             return View(
@@ -65,7 +63,5 @@ namespace LibraryManagementSystem.Controllers
                     _bookService.GetAllBookStoredProcedure()
                 ));
         }
-
-
     }
 }
