@@ -1,11 +1,11 @@
 ﻿using LibraryManagementSystem.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace LibraryManagementSystem
+namespace LibraryManagementSystem.DbContexts
 {
-    public class ApplicationDbContext: DbContext
+    public class ApplicationDbContext : DbContext
     {
-        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options): base(options)
+        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
         {
 
         }
