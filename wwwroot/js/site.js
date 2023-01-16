@@ -45,7 +45,6 @@ $(document).ready(function () {
 
 });
 
-
 function LoadCategories() {
     $('#category').empty();
 
@@ -76,10 +75,6 @@ function LoadCategories() {
     });
 }
 
-
-
-
-
 function LoadSubCategories(CategoryId) {
     $('#subcategory').empty();
     $('#books').empty()
@@ -108,10 +103,6 @@ function LoadSubCategories(CategoryId) {
         }
     });
 }
-
-
-
-
 
 function LoadBooks(SubCategoryId) {
     $('#books').empty();
