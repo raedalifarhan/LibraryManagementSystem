@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "8Dl9aXDFW8sUNUIND9YF5Kn5vu2+TjAD05NLDHt5tG4x5LrchAd5IKQKDUmfojrR+yP8J4qEgeH70d8maKin/A==",
+  "dgSpecHash": "r1aHNTAK9Reflf/kLcOQwk0YpW3umlQ0xQeXn7xYw2kdvX1zGhZMYh5+kXRxsaRuLuN4THTjvjsaxixgni3mVw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Raed\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Raed\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\Raed\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "C:\\Users\\Raed\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Raed\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\Raed\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
@@ -32,7 +34,7 @@
     "C:\\Users\\Raed\\.nuget\\packages\\microsoft.codeanalysis.visualbasic.workspaces\\4.0.0\\microsoft.codeanalysis.visualbasic.workspaces.4.0.0.nupkg.sha512",
     "C:\\Users\\Raed\\.nuget\\packages\\microsoft.codeanalysis.workspaces.common\\4.0.0\\microsoft.codeanalysis.workspaces.common.4.0.0.nupkg.sha512",
     "C:\\Users\\Raed\\.nuget\\packages\\microsoft.codeanalysis.workspaces.msbuild\\4.0.0\\microsoft.codeanalysis.workspaces.msbuild.4.0.0.nupkg.sha512",
-    "C:\\Users\\Raed\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Raed\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Raed\\.nuget\\packages\\microsoft.data.sqlclient\\5.0.1\\microsoft.data.sqlclient.5.0.1.nupkg.sha512",
     "C:\\Users\\Raed\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\5.0.1\\microsoft.data.sqlclient.sni.runtime.5.0.1.nupkg.sha512",
     "C:\\Users\\Raed\\.nuget\\packages\\microsoft.diasymreader\\1.3.0\\microsoft.diasymreader.1.3.0.nupkg.sha512",

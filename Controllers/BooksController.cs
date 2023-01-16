@@ -1,16 +1,19 @@
-﻿using LibraryManagementSystem.Services;
+﻿using AutoMapper;
+using LibraryManagementSystem.Services;
+using LibraryManagementSystem.ViewModels;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
 
 namespace LibraryManagementSystem.Controllers
 {
     public class BooksController : Controller
     {
-        private IBookService _bookService;
+        private readonly IBookService _bookService;
+        private readonly IMapper _mapper;
 
-        public BooksController(IBookService bookService)
+        public BooksController(IBookService bookService, IMapper mapper)
         {
             _bookService = bookService;
+            _mapper = mapper;
         }
 
         // GET: Books
@@ -21,40 +24,46 @@ namespace LibraryManagementSystem.Controllers
 
         public JsonResult GetCategories()
         {
-
-            var ctegories = _bookService.GetCategories();
-
-            return new JsonResult(ctegories);
+            return new JsonResult(
+                _mapper.Map<List<CategoryViewModel>>(
+                    _bookService.GetCategories()
+                ));
         }
 
         public JsonResult GetSubCategories(int id)
         {
-            var subCategories = _bookService.GetSubCategories(id);
 
-            return new JsonResult(subCategories);
+
+            return new JsonResult(
+                _mapper.Map<List<CategoryViewModel>>(
+                    _bookService.GetSubCategories(id)
+                ));
         }
 
         public JsonResult GetBooks(int id)
         {
-            var books = _bookService.GetBooks(id);
-
-            return new JsonResult(books);
+            return new JsonResult(
+                _mapper.Map<List<BookViewModel>>(
+                    _bookService.GetBooks(id)
+                ));
         }
 
 
 
         public IActionResult GetAllBookStoredProcedure()
         {
-            var books = _bookService.GetAllBookStoredProcedure();
-
-            return View(books);
+            return View(
+                _mapper.Map<List<BookViewModel>>(
+                    _bookService.GetAllBookStoredProcedure()
+                ));
         }
 
         public IActionResult GetAllBookEF()
         {
-            var books = _bookService.GetAllBookEF();
-
-            return View(books);
+            return View(
+                _mapper.Map<List<BookViewModel>>(
+                    _bookService.GetAllBookStoredProcedure()
+                ));
         }
 
 

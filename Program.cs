@@ -12,6 +12,9 @@ builder.Services.AddDbContext<ApplicationDbContext>(option =>
     option.UseSqlServer(builder.Configuration.GetConnectionString("ConnectionDb"))
 );
 
+builder.Services.AddAutoMapper(typeof(Program));
+builder.Services.AddControllersWithViews();
+
 
 var app = builder.Build();
 

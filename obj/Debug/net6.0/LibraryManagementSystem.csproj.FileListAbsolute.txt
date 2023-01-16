@@ -14,6 +14,8 @@ C:\Users\Raed\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\D
 C:\Users\Raed\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net6.0\LibraryManagementSystem.runtimeconfig.json
 C:\Users\Raed\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net6.0\LibraryManagementSystem.dll
 C:\Users\Raed\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net6.0\LibraryManagementSystem.pdb
+C:\Users\Raed\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Raed\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\Raed\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net6.0\Azure.Core.dll
 C:\Users\Raed\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net6.0\Azure.Identity.dll
 C:\Users\Raed\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net6.0\Humanizer.dll

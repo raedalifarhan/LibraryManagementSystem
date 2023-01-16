@@ -1,4 +1,4 @@
-﻿@model IEnumerable<LibraryManagementSystem.Models.Book>
+﻿@model IEnumerable<LibraryManagementSystem.ViewModels.BookViewModel>
 
 @{
     ViewData["Title"] = "Index";
@@ -21,9 +21,7 @@
             <th>
                 @Html.DisplayNameFor(model => model.CreatedAt)
             </th>
-            <th>
-                @Html.DisplayNameFor(model => model.LastUpdatedAt)
-            </th>
+
 
             <th></th>
         </tr>
@@ -43,9 +41,7 @@
             <td>
                 @Html.DisplayFor(modelItem => item.CreatedAt)
             </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.LastUpdatedAt)
-            </td>
+            
         </tr>
 }
     </tbody>
