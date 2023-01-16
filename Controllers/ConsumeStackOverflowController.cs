@@ -1,8 +1,5 @@
-﻿using LibraryManagementSystem.Models;
-using Microsoft.AspNetCore.Http;
+﻿using LibraryManagementSystem.ViewModels;
 using Microsoft.AspNetCore.Mvc;
-using Newtonsoft.Json;
-using System.Collections.Generic;
 using System.Net;
 using System.Net.Http.Headers;
 
@@ -13,7 +10,7 @@ namespace LibraryManagementSystem.Controllers
         // GET: ConsumeStackOverflowController
         public async Task<ActionResult> GetQuestions(int page = 5, int pagesize = 50)
         {
-            StackResponseWrapper questions = null;
+            StackResponseViewModel questions = null;
 
 
             HttpClientHandler handler = new HttpClientHandler();
@@ -29,7 +26,7 @@ namespace LibraryManagementSystem.Controllers
 
                 if (result.IsSuccessStatusCode)
                 {
-                    var readTask = result.Content.ReadAsAsync<StackResponseWrapper>();
+                    var readTask = result.Content.ReadAsAsync<StackResponseViewModel>();
                     readTask.Wait();
                     questions = readTask.Result;
                 }
@@ -42,7 +39,7 @@ namespace LibraryManagementSystem.Controllers
         // GET: ConsumeStackOverflowController/Details/5
         public async Task<ActionResult> Details(int id)
         {
-            StackAnswerWrapper comments = null;
+            StackAnswerViewModel comments = null;
 
 
             HttpClientHandler handler = new HttpClientHandler();
@@ -59,7 +56,7 @@ namespace LibraryManagementSystem.Controllers
 
                 if (result.IsSuccessStatusCode)
                 {
-                    var readTask = result.Content.ReadAsAsync<StackAnswerWrapper>();
+                    var readTask = result.Content.ReadAsAsync<StackAnswerViewModel>();
                     readTask.Wait();
                     comments = readTask.Result;
                 }

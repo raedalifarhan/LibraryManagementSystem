@@ -1,6 +1,8 @@
-﻿namespace LibraryManagementSystem.Models
+﻿using LibraryManagementSystem.Models;
+
+namespace LibraryManagementSystem.ViewModels
 {
-    public class StackAnswerWrapper
+    public class StackAnswerViewModel
     {
         public List<Answer> items { get; set; }
 

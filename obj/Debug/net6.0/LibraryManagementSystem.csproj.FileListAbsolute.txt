@@ -19,6 +19,7 @@ C:\Users\Raed\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\D
 C:\Users\Raed\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net6.0\Humanizer.dll
 C:\Users\Raed\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net6.0\MessagePack.dll
 C:\Users\Raed\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Raed\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net6.0\System.Net.Http.Formatting.dll
 C:\Users\Raed\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
 C:\Users\Raed\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\Raed\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net6.0\Microsoft.Build.dll
@@ -63,6 +64,8 @@ C:\Users\Raed\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\D
 C:\Users\Raed\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
 C:\Users\Raed\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\Raed\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Raed\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net6.0\System.Net.Http.Extensions.dll
+C:\Users\Raed\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net6.0\System.Net.Http.Primitives.dll
 C:\Users\Raed\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
 C:\Users\Raed\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
 C:\Users\Raed\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
@@ -76,6 +79,7 @@ C:\Users\Raed\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\D
 C:\Users\Raed\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\Raed\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net6.0\Mono.TextTemplating.dll
 C:\Users\Raed\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Raed\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
 C:\Users\Raed\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net6.0\NuGet.Common.dll
 C:\Users\Raed\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net6.0\NuGet.Configuration.dll
 C:\Users\Raed\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
@@ -287,7 +291,3 @@ C:\Users\Raed\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\D
 C:\Users\Raed\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net6.0\LibraryManagementSystem.pdb
 C:\Users\Raed\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net6.0\LibraryManagementSystem.genruntimeconfig.cache
 C:\Users\Raed\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net6.0\ref\LibraryManagementSystem.dll
-C:\Users\Raed\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net6.0\System.Net.Http.Extensions.dll
-C:\Users\Raed\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net6.0\System.Net.Http.Primitives.dll
-C:\Users\Raed\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net6.0\System.Net.Http.Formatting.dll
-C:\Users\Raed\source\repos\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
